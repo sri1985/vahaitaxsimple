@@ -1,0 +1,16 @@
+{
+  "name": "vahai-tax-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Physical multi-page bilingual static site for VAHAI TAX - Accountants and Consultants (GitHub Pages).",
+  "scripts": {
+    "build": "node build.js",
+    "serve": "npx --yes serve dist -l 4173"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
