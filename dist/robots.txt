@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vahaitax.ca/sitemap.xml
+Sitemap: https://sri1985.github.io/vahaitaxsimple/sitemap.xml
