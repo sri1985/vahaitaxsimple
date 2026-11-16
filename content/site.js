@@ -23,6 +23,7 @@ module.exports = {
   PHONES: [
     { display: '416-439-2688', tel: '+14164392688' },
     { display: '647-221-6262', tel: '+16472216262' },
+    { display: '647-330-9645 (Mano Vijay - Direct)', tel: '+16473309645' },
   ],
 
   // The brief printed this address as "vahai tax@gmail.com" (contains a space,

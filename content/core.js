@@ -251,15 +251,15 @@ module.exports = [
     en: {
       nav: 'Contact',
       title: 'Contact VAHAI TAX | Scarborough, Ontario',
-      desc: 'Contact VAHAI TAX at 885 Progress Ave., Unit 102, Scarborough, ON M1H 3G3. Call 416-439-2688 or 647-221-6262 to book a consultation.',
+      desc: 'Contact VAHAI TAX at 885 Progress Ave., Unit 102, Scarborough, ON M1H 3G3. Call 416-439-2688, 647-221-6262 or 647-330-9645 to book a consultation.',
       h1: 'Contact VAHAI TAX',
       kicker: 'Get in Touch',
-      lead: 'Call, email or visit our Scarborough office to discuss your tax, accounting or corporate needs.',
+      lead: 'Call, email or visit our Scarborough office to discuss your tax, accounting or corporate needs. Office hours are subject to change during the seasons.',
       card: 'Address, phone numbers and email for VAHAI TAX.',
       snippets: [
         [
           'How do I book a consultation with VAHAI TAX?',
-          'Call 416-439-2688 or 647-221-6262, or send an email, to request a consultation at our office at 885 Progress Ave., Unit 102, Scarborough. Let us know whether your needs are personal, business or corporate so we can tell you what to bring.',
+          'Call 416-439-2688, 647-221-6262, or email vahaitax@gmail.com to request a consultation at 885 Progress Ave., Unit 102, Scarborough. Office hours are Mon-Fri 9:00 AM - 5:00 PM, subject to seasonal change. Tell us your filing needs so we can advise what documents to bring.',
         ],
       ],
       sections: [
