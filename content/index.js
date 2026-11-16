@@ -13,6 +13,7 @@ const ROUTE_ORDER = [
   '/',
   '/about/',
   '/about/vasugi-selvaelango/',
+  '/about/mano-vijay/',
   '/about/why-choose-us/',
   // Business Tax
   '/business-tax-accounting/',

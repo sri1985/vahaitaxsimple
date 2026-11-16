@@ -195,6 +195,75 @@ module.exports = [
   },
 
   {
+    path: '/about/mano-vijay/',
+    type: 'principal',
+    en: {
+      nav: 'Mano Vijay',
+      title: 'Mano Vijay | Tax & Accounting, Scarborough',
+      desc: 'Mano Vijay brings 10 years of experience in tax and accounting to VAHAI TAX in Scarborough, Ontario. Direct line: 647-330-9645.',
+      h1: 'Mano Vijay',
+      kicker: 'Tax & Accounting',
+      lead: 'Mano Vijay brings 10 years of experience to VAHAI TAX and works alongside Vasugi to serve individual and business clients.',
+      card: 'Tax and accounting specialist with 10 years of experience.',
+      snippets: [
+        [
+          'Who is Mano Vijay?',
+          'Mano Vijay brings 10 years of experience in tax and accounting to VAHAI TAX in Scarborough, Ontario. Working alongside Vasugi Selvaelango, Mano handles personal and corporate filings, small-business accounting, bookkeeping and CRA reviews with direct client access. Reach Mano directly at 647-330-9645.',
+        ],
+      ],
+      sections: [
+        {
+          h: 'Experience and focus',
+          p: ['With a decade of specialized hands-on practice, Mano manages corporate and personal client portfolios, ensuring accurate filing, seamless accounting records, and prompt compliance.'],
+          ul: [
+            'Personal & family income tax planning',
+            'Rental property & capital gains reporting',
+            'Small-business accounting, payroll & GST/HST',
+            'Incorporation & corporate record maintenance',
+            'CRA reviews, audits & appeals',
+          ],
+        },
+        {
+          h: 'Working with Mano',
+          p: ['Clients work directly with Mano for personalized, prompt tax and accounting assistance. Direct Line: 647-330-9645.'],
+        },
+      ],
+    },
+    fr: {
+      nav: 'Mano Vijay',
+      title: 'Mano Vijay | Fiscalité et comptabilité, Scarborough',
+      desc: "Mano Vijay apporte 10 ans d'expérience en fiscalité et comptabilité à VAHAI TAX à Scarborough, Ontario. Ligne directe : 647-330-9645.",
+      h1: 'Mano Vijay',
+      kicker: 'Fiscalité et comptabilité',
+      lead: "Mano Vijay apporte 10 ans d'expérience à VAHAI TAX et travaille aux côtés de Vasugi pour servir les particuliers et les entreprises.",
+      card: "Spécialiste fiscal et comptable avec 10 ans d'expérience.",
+      snippets: [
+        [
+          'Qui est Mano Vijay?',
+          "Mano Vijay apporte 10 ans d'experience en fiscalite et comptabilite a VAHAI TAX a Scarborough. Travaillant aux cotes de Vasugi Selvaelango, Mano prend en charge les declarations fiscales, la comptabilite des PME et les relations avec l'ARC avec un service personnalise et direct. Joignez Mano au 647-330-9645.",
+        ],
+      ],
+      sections: [
+        {
+          h: 'Expérience et domaines de pratique',
+          p: ["Avec une décennie d'expérience pratique spécialisée, Mano gère des portefeuilles de clients corporatifs et individuels, assurant des déclarations rigoureuses et une conformité fiscale ponctuelle."],
+          ul: [
+            'Planification fiscale personnelle et familiale',
+            'Déclaration des immeubles locatifs et gains en capital',
+            'Comptabilité des PME, paie et TPS/TVH',
+            'Constitution en société et tenue des registres',
+            "Examens, vérifications et appels de l'ARC",
+          ],
+        },
+        {
+          h: 'Travailler avec Mano',
+          p: ['Les clients bénéficient d’un accès direct à Mano pour un soutien fiscal et comptable personnalisé et rapide. Ligne directe : 647-330-9645.'],
+        },
+      ],
+    },
+  },
+
+  {
     path: '/about/why-choose-us/',
     type: 'whyus',
     en: {
